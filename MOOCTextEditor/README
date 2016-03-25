@@ -1,0 +1,18 @@
+Java project for "Data structures: Measuring and Optimizing Performance", 
+course #2 in "Java Programming: Object-Oriented Design of Data Structures" 
+from University of California, San Diego (on Coursera).
+==================================================================
+Some starter code and the user interface was provided. I developed only 
+"back-end" code.
+In each file, a //TODO indicates the methods I implemented.
+
+The project for this course was to build a smart text editor/processor 
+that incorporates “intelligent” behaviors of modern-day text interfaces 
+including autocomplete, flagging misspelled words and spelling auto-correct. 
+In each module I added a bit more functionality to my editor:
+- Flesch Readability Score
+- Efficiency improvements
+- Markov Text Generation
+- Spell Checking and Autocomplete
+- Spelling Suggestions
+- Word Paths
